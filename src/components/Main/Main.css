@@ -1,0 +1,94 @@
+.content {
+  width: 1124px;
+  margin: 0 auto;
+}
+
+.find {
+  width: 956px;
+  margin: 0 auto;
+  padding-top: 56px;
+  padding-bottom: 56px;
+}
+
+.form__request {
+  mix-blend-mode: normal;
+  opacity: 0.3;
+  border: none;
+  border-bottom: 1px solid #757575;
+  width: 956px;
+  height: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #626262;
+}
+
+.restaurants {
+  width: 956px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 100px;
+}
+
+.restaurants__moscow {
+  font-family: inherit;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 34px;
+  color: #1d1d1d;
+  margin: 0 0 16px;
+}
+
+.cafes__list {
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 6px;
+  row-gap: 36px;
+  grid-template-columns: repeat(auto-fit, 310px);
+  list-style: none;
+}
+
+.description__name {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #1d1d1d;
+  margin: 0 0 4px;
+}
+
+.description__kitchen {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #626262;
+  margin: 0 0 4px;
+}
+
+.description__time {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 21px;
+  color: #1d1d1d;
+  margin: 0;
+}
+
+.description__photo {
+  width: 310px;
+  height: 256px;
+  margin: 0;
+}
+
+.description__secondPage {
+  margin-bottom: 16px;
+}
