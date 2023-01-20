@@ -6,10 +6,12 @@ import Main from "../Main/Main";
 
 function App() {
   return (
-    <div className="page">
-      <Header />
-      <Main />
-      <Footer />
+    <div className="app">
+      <div className="page">
+        <Header />
+        <Main />
+        <Footer />
+      </div>
     </div>
   );
 }

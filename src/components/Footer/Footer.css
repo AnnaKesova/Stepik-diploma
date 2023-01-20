@@ -146,7 +146,7 @@
   .footer__application {
       padding: 40px 0;
       margin: 0 auto;
-      width: 956px;
+      /* width: 956px; */
       border-bottom: 1px solid #ffffff;
       display: flex;
       justify-content: center;
