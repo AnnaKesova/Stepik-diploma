@@ -32,7 +32,7 @@
   mix-blend-mode: normal;
   opacity: 0.3;
   border: none;
- 
+
   width: 100%;
   height: 24px;
   font-family: "Roboto";
@@ -45,22 +45,12 @@
 }
 
 .restaurants {
- max-width: 956px;
+  max-width: 956px;
+  width: 100%;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
   padding-bottom: 100px;
-}
-
-@media (max-width: 768px) {
-  .restaurants {
-    width: 768px;
-  }
-}
-
-@media (max-width: 320px) {
-  .header {
-  }
 }
 
 .restaurants__moscow {
@@ -85,6 +75,18 @@
   }
 }
 
+@media (max-width: 767px) {
+  .restaurants__moscow {
+    text-align: center;
+  }
+}
+
+@media (max-width: 320px) {
+  .restaurants__moscow {
+    text-align: left;
+  }
+}
+
 .cafes__list {
   padding: 0;
   margin: 0;
@@ -97,7 +99,7 @@
 
 @media (max-width: 1024px) {
   .cafes__list {
-    grid-template-columns: repeat(auto-fit, 368px); 
+    grid-template-columns: repeat(auto-fit, 368px);
     gap: 7px;
     row-gap: 16px;
     justify-content: center;
@@ -106,12 +108,15 @@
 
 @media (max-width: 768px) {
   .cafes__list {
-    justify-content: start;
+    justify-content: start; 
   }
 }
 
-@media (max-width: 320px) {
-  .header {
+@media (max-width: 767px) {
+  .cafes__list {
+    grid-template-columns: repeat(auto-fit, 304px);
+    row-gap: 14px;
+justify-content: center;
   }
 }
 
@@ -158,8 +163,10 @@
   }
 }
 
-@media (max-width: 320px) {
-  .header {
+@media (max-width: 767px) {
+  .description__photo {
+    width: 304px;
+    height: 250px;
   }
 }
 

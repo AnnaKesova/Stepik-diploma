@@ -29,6 +29,13 @@
   margin: 56px 0 41px;
 }
 
+@media (max-width: 320px) {
+  .footer__logo {
+    width: 192px;
+    margin-bottom: 40px;
+  }
+}
+
 .navigation {
   border-bottom: 1px solid rgb(255, 255, 255, 0.4);
   border-top: 1px solid rgb(255, 255, 255, 0.4);
@@ -43,6 +50,21 @@
     gap: 60px;
     grid-template-columns: repeat(auto-fit, 196px);
     padding: 39px 0 48px;
+  }
+}
+
+@media (max-width: 450px) {
+  .navigation {
+    gap: 0;
+    padding: 32px 0 40px;
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 450px) {
+  .navigation__instrument {
+    margin-bottom: 23px;
   }
 }
 
@@ -66,6 +88,12 @@
   }
 }
 
+@media (max-width: 320px) {
+  .navigation__search {
+    width: 173px;
+  }
+}
+
 .search__shape {
   background-image: url(../../images/Shape2.png);
   background-repeat: no-repeat;
@@ -82,6 +110,12 @@
   font-size: 16px;
   line-height: 19px;
   color: #ffffff;
+}
+
+@media (max-width: 450px) {
+  .footer__about {
+    margin-bottom: 23px;
+  }
 }
 
 .about__list {
@@ -115,6 +149,13 @@
 
 .navigation__links {
   display: flex;
+  width: 92px;
+}
+
+@media (max-width: 320px) {
+  .navigation__links {
+    width: 96px;
+  }
 }
 
 .navigation__facebook {
@@ -151,10 +192,16 @@
   align-items: center;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .about-site {
     gap: 106px;
     grid-template-columns: repeat(auto-fit, 150px);
+  }
+}
+
+@media (max-width: 767px) {
+  .about-site {
+    gap: 24px;
   }
 }
 
@@ -165,6 +212,7 @@
   font-size: 11px;
   line-height: 13px;
   color: #ffffff;
+  margin: 0;
 }
 
 @media (max-width: 768px) {
@@ -173,6 +221,7 @@
   }
 }
 
+
 .about-site__personal {
   text-decoration: none;
 }
@@ -180,11 +229,17 @@
 .footer__application {
   padding: 40px 0;
   margin: 0 auto;
-  max-width: 956px; 
+  max-width: 956px;
   width: 100%;
   border-bottom: 1px solid rgb(255, 255, 255, 0.4);
   display: flex;
   justify-content: center;
+}
+
+@media (max-width: 450px) {
+  .footer__application {
+    padding: 24px 0;
+  }
 }
 
 .application__google {
@@ -194,4 +249,11 @@
   height: 40px;
   background-size: contain;
   cursor: pointer;
+}
+
+@media (max-width: 450px) {
+  .application__google {
+    width: 124px;
+    height: 36px;
+  }
 }
