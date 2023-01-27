@@ -42,17 +42,18 @@
   }
 }
 
-@media (max-width: 320px) {
-  .header {
-  }
-}
-
 .header__autorize {
   width: 124px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin: 16px 0;
+}
+
+@media (max-width: 767px) {
+  .header__autorize {
+justify-content: end;
+  }
 }
 
 .header__in {
@@ -77,8 +78,9 @@
   }
 }
 
-@media (max-width: 320px) {
-  .header {
+@media (max-width: 767px) {
+  .header__in {
+    margin-right: 8px;
   }
 }
 
@@ -106,8 +108,9 @@
   }
 }
 
-@media (max-width: 320px) {
-  .header {
+@media (max-width: 767px) {
+  .header__lock {
+    display: none;
   }
 }
 
