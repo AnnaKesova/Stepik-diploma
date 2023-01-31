@@ -10,11 +10,6 @@
   }
 }
 
-@media (max-width: 320px) {
-  .header {
-  }
-}
-
 .find {
   margin: 0 auto;
   padding-top: 56px;
