@@ -12,7 +12,7 @@ function App() {
       <div className="page">
         <Header />
         <Routes>
-          <Route exact path="/"
+          <Route exact path="/Stepik-diploma"
           element={<Main/>}>   
           </Route>
            <Route exact path="/poushkin" 
