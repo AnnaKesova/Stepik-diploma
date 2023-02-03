@@ -27,7 +27,7 @@ function Main() {
         <div className="restaurants__cafes cafes">
           <ul className="cafes__list">
             <li className="cafes__description description">
-              <Link href="#" className="description__secondPage">
+              <Link href="#" className="description__secondPage" to="/poushkin">
                 <img
                   className="description__photo"
                   src={macd}
@@ -39,7 +39,7 @@ function Main() {
               <p className="description__time">25 - 35 мин</p>
             </li>
             <li className="cafes__description description">
-              <Link href="#" className="description__secondPage">
+              <Link href="#" className="description__secondPage" to="/poushkin">
                 <img className="description__photo" src={dim} alt="ДимСам" />
               </Link>
               <h2 className="description__name">DimSum & Co — ЦДМ</h2>
@@ -49,7 +49,7 @@ function Main() {
               <p className="description__time">40 - 50 мин</p>
             </li>
             <li className="cafes__description description">
-              <Link href="#" className="description__secondPage">
+              <Link href="#" className="description__secondPage" to="/poushkin">
                 <img className="description__photo" src={dvijok} alt="Движок" />
               </Link>
               <h2 className="description__name">ДвижОК — Манежная</h2>
@@ -59,7 +59,7 @@ function Main() {
               <p className="description__time">35 - 45 мин</p>
             </li>
             <li className="cafes__description description">
-              <Link href="#" className="description__secondPage">
+              <Link href="#" className="description__secondPage" to="/poushkin">
                 <img className="description__photo" src={nia} alt="НЯ — NHA" />
               </Link>
               <h2 className="description__name">НЯ — NHA</h2>
@@ -67,7 +67,7 @@ function Main() {
               <p className="description__time">30 - 40 мин</p>
             </li>
             <li className="cafes__description description">
-              <Link href="#" className="description__secondPage">
+              <Link href="#" className="description__secondPage" to="/poushkin">
                 <img
                   className="description__photo"
                   src={point}
@@ -79,7 +79,7 @@ function Main() {
               <p className="description__time">40 - 50 мин</p>
             </li>
             <li className="cafes__description description">
-              <Link href="#" className="description__secondPage">
+              <Link href="#" className="description__secondPage" to="/poushkin">
                 <img
                   className="description__photo"
                   src={cinabon}
@@ -93,7 +93,7 @@ function Main() {
               <p className="description__time">25 - 35 мин</p>
             </li>
             <li className="cafes__description description">
-              <Link href="#" className="description__secondPage">
+              <Link href="#" className="description__secondPage" to="/poushkin">
                 <img
                   className="description__photo"
                   src={pizzalove}
@@ -105,7 +105,7 @@ function Main() {
               <p className="description__time">15 - 25 мин</p>
             </li>
             <li className="cafes__description description">
-              <Link href="#" className="description__secondPage">
+              <Link href="#" className="description__secondPage" to="/poushkin">
                 <img
                   className="description__photo"
                   src={cafe}
@@ -117,7 +117,7 @@ function Main() {
               <p className="description__time">25 - 35 мин</p>
             </li>
             <li className="cafes__description description">
-              <Link href="#" className="description__secondPage">
+              <Link href="#" className="description__secondPage" to="/poushkin">
                 <img
                   className="description__photo"
                   src={bar}
