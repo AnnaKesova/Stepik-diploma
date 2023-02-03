@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Stepik-diploma/static/css/main.f8496a81.css",
+    "main.js": "/Stepik-diploma/static/js/main.016e4c0e.js",
+    "static/media/photoPoushkin.svg": "/Stepik-diploma/static/media/photoPoushkin.147cd672b3ddb0a2449a.svg",
+    "static/media/photo2.svg": "/Stepik-diploma/static/media/photo2.1e6608562905d5b37474.svg",
+    "static/media/photo3.svg": "/Stepik-diploma/static/media/photo3.ba2e344f7b2708c622cb.svg",
+    "static/media/ня.svg": "/Stepik-diploma/static/media/ня.b52c822822db0fa27befdf03e5409be3.svg",
+    "static/media/кафе.svg": "/Stepik-diploma/static/media/кафе.5233820e88088a721102a4a4c040769c.svg",
+    "static/media/точка.svg": "/Stepik-diploma/static/media/точка.d5bd82eacb8bf54735fa8b04072ad53d.svg",
+    "static/media/Движок.svg": "/Stepik-diploma/static/media/Движок.76257832c0bd4099c036e22ae30cc972.svg",
+    "static/media/dimSum.svg": "/Stepik-diploma/static/media/dimSum.9f5bb3137da5befa24157ca1be89d1ea.svg",
+    "static/media/pizzelove.svg": "/Stepik-diploma/static/media/pizzelove.171075007a2ce9cbcd72e5a8ac2232de.svg",
+    "static/media/cinabon.svg": "/Stepik-diploma/static/media/cinabon.76d50618b29d376a84414f85c8f19659.svg",
+    "static/media/bar.svg": "/Stepik-diploma/static/media/bar.77f0828d4d165271c1aaa0d9402c7d58.svg",
+    "static/media/Capture (1).svg": "/Stepik-diploma/static/media/Capture (1).5896c4798e3baeb4c741b13f9ad8e0d1.svg",
+    "static/media/macdonalds.svg": "/Stepik-diploma/static/media/macdonalds.42ba1ef530d26d6c9314524f52fec608.svg",
+    "static/media/Inter-Black.woff?v=3.19": "/Stepik-diploma/static/media/Inter-Black.fd37f7e052bea1018058.woff",
+    "static/media/Inter-Medium.woff?v=3.19": "/Stepik-diploma/static/media/Inter-Medium.7ddb89dcdb33dd761944.woff",
+    "static/media/Inter-Regular.woff?v=3.19": "/Stepik-diploma/static/media/Inter-Regular.34ed58565339f4f3be40.woff",
+    "static/media/Inter-Black.woff2?v=3.19": "/Stepik-diploma/static/media/Inter-Black.141c7af6ed109b318513.woff2",
+    "static/media/Inter-Medium.woff2?v=3.19": "/Stepik-diploma/static/media/Inter-Medium.6db7e439cc4b0e5c0cd2.woff2",
+    "static/media/Inter-Regular.woff2?v=3.19": "/Stepik-diploma/static/media/Inter-Regular.4c96ed73beaf6d1e6cc7.woff2",
+    "static/media/Capture (5).svg": "/Stepik-diploma/static/media/Capture (5).c626ef0400c7ffc1ddba7d84aa327ad6.svg",
+    "static/media/Capture (2).svg": "/Stepik-diploma/static/media/Capture (2).c1851d75f42c3571b4de4491192066b3.svg",
+    "static/media/Capture (4).svg": "/Stepik-diploma/static/media/Capture (4).04bc5d720051da71c3ed12937de41a28.svg",
+    "static/media/Capture (6).svg": "/Stepik-diploma/static/media/Capture (6).814829a19112affb9e4cef5164efeff2.svg",
+    "static/media/Capture (3).svg": "/Stepik-diploma/static/media/Capture (3).2a79ad14e30a49281222e4c7680de6e9.svg",
+    "static/media/en_badge_web_generic-cf6dad406f.svg": "/Stepik-diploma/static/media/en_badge_web_generic-cf6dad406f.0332b55836e424abefc6.svg",
+    "static/media/logo.svg": "/Stepik-diploma/static/media/logo.d387f45fbe22b4d3ce8d.svg",
+    "static/media/twitter.svg": "/Stepik-diploma/static/media/twitter.195bde73ca1625a8b6ac.svg",
+    "static/media/instagram.svg": "/Stepik-diploma/static/media/instagram.736a9a7172d405a6f8a6.svg",
+    "static/media/facebook.svg": "/Stepik-diploma/static/media/facebook.b9f8dc679f8da5a818a1.svg",
+    "static/media/basket.svg": "/Stepik-diploma/static/media/basket.a43e57a09f8dc08b70c2.svg",
+    "index.html": "/Stepik-diploma/index.html",
+    "main.f8496a81.css.map": "/Stepik-diploma/static/css/main.f8496a81.css.map",
+    "main.016e4c0e.js.map": "/Stepik-diploma/static/js/main.016e4c0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8496a81.css",
+    "static/js/main.016e4c0e.js"
+  ]
+}
