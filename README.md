@@ -17,6 +17,7 @@ React-модули.
 Сайт позволяет пользователям посмотреть список ресторанов.
 
 Ссылка на проект: https://annakesova.github.io/Stepik-diploma/
+
 Ссылка на макет: https://www.figma.com/file/8lxQ3PGYTHQsCgTXnEJre8/Uber-Eats
 
 ## Инструкция по разрёртыванию проекта:
