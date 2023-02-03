@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://annakesova.github.io/Stepik-diploma/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

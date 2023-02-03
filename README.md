@@ -14,9 +14,9 @@ React-модули.
 ### React
 использование Create React App    
 
-Сайт позволяет пользователям список ресторанов.
+Сайт позволяет пользователям посмотреть список ресторанов.
 
-Ссылка на проект: 
+Ссылка на проект: https://annakesova.github.io/Stepik-diploma/
 Ссылка на макет: https://www.figma.com/file/8lxQ3PGYTHQsCgTXnEJre8/Uber-Eats
 
 ## Инструкция по разрёртыванию проекта:
